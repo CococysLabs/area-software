@@ -1,0 +1,15 @@
+graph MerkleTree {
+node0 [label="000000000000data10000data200000000data30000data4"];
+node0 -- node1;
+node1 [label="00000000data10000data2"];
+node1 -- node2;
+node2 [label="0000data1"];
+node1 -- node3;
+node3 [label="0000data2"];
+node0 -- node4;
+node4 [label="00000000data30000data4"];
+node4 -- node5;
+node5 [label="0000data3"];
+node4 -- node6;
+node6 [label="0000data4"];
+}
