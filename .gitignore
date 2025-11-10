@@ -39,3 +39,23 @@ target/
 # Build
 build/
 dist/
+
+# Archivos de seguridad - NO SUBIR (case-insensitive)
+[Ss]eguridad.docx
+[Ss]eguridad.txt
+**/*[Ss]eguridad*.txt
+**/*[Ss]eguridad*.docx
+
+# Videos - Archivos grandes
+*.mp4
+*.MP4
+*.avi
+*.mov
+*.mkv
+*.flv
+*.wmv
+*.webm
+*.m4v
+*.mpeg
+*.mpg
+*.3gp
