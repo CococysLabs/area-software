@@ -1,0 +1,35 @@
+Actividades y Ponderaciones
+Agenda :
+
+- ¿Qué es una variable?
+- Reglas al nombrar variables
+- Variables y Tipos
+- Alcance de variables (¿Qué es un entorno?)
+- Declaración y asignación de variables
+- Repaso y Ejemplos
+
+Presentación:
+
+- Definición de variables
+- Reglas de nombramiento
+- Tipos de variables
+- Alcance de variables
+- Declaración y asignación de variables
+
+Videos:
+- Primer video : https://www.youtube.com/watch?v=m4UzqSCmU9g
+- Segundo video : https://www.youtube.com/watch?v=DJYrpkmq9_Y
+Lectura:
+Tipos de datos:
+Lectura :
+
+https://drive.google.com/file/d/10T5i9j1aoHUxFWqXMeA8KLfxuPOqQ_af/view?usp=sharing
+Ejercicio:
+- Definición de tipos de variables
+- Reglas al nombrar tipos de variables
+- Orden de ejecución en variables
+- Alcance (Variables globales y privadas)
+- Declaración de variables y asignación de variables
+Presentación de apoyo:
+https://www.canva.com/design/DAGVfv6AJiU/PDVnyD1DdEFX7-Dg9CUBMw/edit?utm_content=DAGVfv6AJiU&
+utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton

@@ -1,0 +1,25 @@
+Actividades y Ponderaciones
+Agenda :
+• Button y Label
+• Textbox y GroupBox
+• Checkbutton y RadioButton
+• ListBox y Combobox
+Presentación:
+• Button y label
+• Textbox y GroupBox
+• CheckButton y RadioButton
+• Listbox y Combobox
+Ejercicio:
+• Realizar captura de datos con textbox
+• Checbox vs RadioButton
+• Ventajas de utilizar Combobox
+• Resultados en Label
+• Botones dinámicos
+Cuestionario:
+
+• https://docs.google.com/forms/d/e/1FAIpQLSdwSRY7ZGHsZOy_vDgOOW6V-
+8PSNBEllXY_RH2TkTNOBLeMzg/viewform
+
+Presentación de apoyo:
+https://www.canva.com/design/DAGVgc74J9c/TBo1IE5ML5r1eOHkUbmsTw/edit?utm_content=DAGVgc74J9
+c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton

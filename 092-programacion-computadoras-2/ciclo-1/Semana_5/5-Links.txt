@@ -1,0 +1,21 @@
+Actividades y Ponderaciones
+Agenda :
+- Uso de módulos
+- Crear y Gestionar Módulos
+- Formularios Múltiples
+- Navegación entre formularios
+Presentación:
+- Uso de módulos
+- Crear y Gestionar Módulos
+- Formularios Múltiples
+- Navegación entre formularios
+Ejercicio:
+- Uso de módulos
+- Múltiples Formularios
+- Declaración de variables globales
+Videos de referencia:
+- Por que usar modulos : https://youtu.be/WxadJer7bkc
+- Por que utilizar múltiples formularios : https://youtu.be/c9HYZt-FfsA
+Presentación de apoyo:
+https://www.canva.com/design/DAGVgk8SeYo/qQ-tf8SO4i1OYCv5nUnFhQ/edit?utm_content=DAGVgk8SeYo&u
+tm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
