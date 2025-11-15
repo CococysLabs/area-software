@@ -1,0 +1,1232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 3370695  -->
+  <question type="ddwtos">
+    <name>
+      <text>Analisis</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">En la fase de [[1]] se identifican y documentan las necesidades del cliente y los objetivos del software.</span> </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <shuffleanswers>1</shuffleanswers>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Su respuesta es correcta.</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Su respuesta es parcialmente correcta.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Su respuesta es incorrecta.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <dragbox>
+      <text>Analisis</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>Diseño</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>Desarrollo</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>Pruebas</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>Despliegue</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>Mantenimiento</text>
+      <group>1</group>
+    </dragbox>
+  </question>
+
+<!-- question: 3370699  -->
+  <question type="ddwtos">
+    <name>
+      <text>DESARROLLO</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">En la fase de [[3]] el SQA supervisa la escritura del código, asegurando que se sigan estándares de codificación y buenas prácticas.</span></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <shuffleanswers>1</shuffleanswers>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Su respuesta es correcta.</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Su respuesta es parcialmente correcta.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Su respuesta es incorrecta.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <dragbox>
+      <text>Analisis</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>Diseño</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>Desarrollo</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>Pruebas</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>Despliegue</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>Mantenimiento</text>
+      <group>1</group>
+    </dragbox>
+  </question>
+
+<!-- question: 3370705  -->
+  <question type="ddwtos">
+    <name>
+      <text>DESPLIEGUE</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">En la fase de [[5]] el equipo de desarrollo se enfoca en tareas técnicas como la configuración del entorno de producción, la implementación del código y la resolución de problemas</span></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <shuffleanswers>1</shuffleanswers>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Su respuesta es correcta.</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Su respuesta es parcialmente correcta.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Su respuesta es incorrecta.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <dragbox>
+      <text>Analisis</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>Diseño</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>Desarrollo</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>Pruebas</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>Despliegue</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>Mantenimiento</text>
+      <group>1</group>
+    </dragbox>
+  </question>
+
+<!-- question: 3370697  -->
+  <question type="ddwtos">
+    <name>
+      <text>Diseño</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">En la fase de [[2]] se crea un plan técnico para implementar los requisitos, incluyendo arquitectura y diseño del sistema.</span></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <shuffleanswers>1</shuffleanswers>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Su respuesta es correcta.</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Su respuesta es parcialmente correcta.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Su respuesta es incorrecta.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <dragbox>
+      <text>Analisis</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>Diseño</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>Desarrollo</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>Pruebas</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>Despliegue</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>Mantenimiento</text>
+      <group>1</group>
+    </dragbox>
+  </question>
+
+<!-- question: 3370691  -->
+  <question type="ddwtos">
+    <name>
+      <text>El ciclo de vida del software</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">El ciclo de vida del software define las [[1]] por las que pasa un proyecto de software, desde su concepción hasta su retiro.</span></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <shuffleanswers>1</shuffleanswers>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Su respuesta es correcta.</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Su respuesta es parcialmente correcta.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Su respuesta es incorrecta.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <dragbox>
+      <text>fases</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>iteraciones</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>actividades</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>pruebas</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>instrucciones</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>historias</text>
+      <group>1</group>
+    </dragbox>
+  </question>
+
+<!-- question: 3370707  -->
+  <question type="ddwtos">
+    <name>
+      <text>MANTENIMIENTO</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">En la fase de [[6]]  es la etapa en la que el software ya está en producción y se realizan actividades para asegurar que continúe funcionando correctamente, se adapte a nuevos requisitos y se corrijan problemas que surjan con el tiempo.</span></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <shuffleanswers>1</shuffleanswers>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Su respuesta es correcta.</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Su respuesta es parcialmente correcta.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Su respuesta es incorrecta.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <dragbox>
+      <text>Analisis</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>Diseño</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>Desarrollo</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>Pruebas</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>Despliegue</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>Mantenimiento</text>
+      <group>1</group>
+    </dragbox>
+  </question>
+
+<!-- question: 3370741  -->
+  <question type="ddwtos">
+    <name>
+      <text>mocks</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<div class="flex max-w-full flex-col flex-grow">
+<div class="min-h-8 text-message relative flex w-full flex-col items-end gap-2 whitespace-normal break-words text-start [.text-message+&amp;]:mt-5" dir="auto" data-message-author-role="assistant" data-message-id="0459aad6-6423-4161-bd71-d27e0449fa01" data-message-model-slug="gpt-4o">
+<div class="flex w-full flex-col gap-1 empty:hidden first:pt-[3px]">
+<div class="markdown prose w-full break-words dark:prose-invert light">
+<p data-start="0" data-end="261" data-is-last-node="" data-is-only-node="">El [[1]] en pruebas unitarias es una técnica que simula el comportamiento de dependencias [[5]] (como bases de datos, APIs o servicios) para aislar la unidad de código bajo prueba, mejorar la velocidad de ejecución y garantizar resultados consistentes.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="mb-2 flex gap-3 -ml-2">
+<div class="flex items-center justify-start rounded-xl p-1">
+<div>
+<div class="flex items-center"> </div>
+</div>
+</div>
+</div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <shuffleanswers>1</shuffleanswers>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Su respuesta es correcta.</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Su respuesta es parcialmente correcta.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Su respuesta es incorrecta.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <dragbox>
+      <text>mocking</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>ciclo</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>QA</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>testing</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>externas</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>internas</text>
+      <group>1</group>
+    </dragbox>
+  </question>
+
+<!-- question: 3370738  -->
+  <question type="ddwtos">
+    <name>
+      <text>mocks y stub</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">Son técnicas utilizadas para simular el comportamiento de dependencias externas. Un [[1]] es un objeto que imita el comportamiento de una dependencia, mientras que un [[2]] proporciona respuestas predefinidas.</span></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <shuffleanswers>1</shuffleanswers>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Su respuesta es correcta.</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Su respuesta es parcialmente correcta.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Su respuesta es incorrecta.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <dragbox>
+      <text>mock</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>stub</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>assert</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>test</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>act</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>arrange</text>
+      <group>1</group>
+    </dragbox>
+  </question>
+
+<!-- question: 3370703  -->
+  <question type="ddwtos">
+    <name>
+      <text>PRUEBAS</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">En la fase de [[4]] el equipo de QA hace pruebas funcionales y no funcionales porque se enfocan en validar el software desde la perspectiva del usuario y los requisitos del negocio</span></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <shuffleanswers>1</shuffleanswers>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Su respuesta es correcta.</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Su respuesta es parcialmente correcta.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Su respuesta es incorrecta.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <dragbox>
+      <text>Analisis</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>Diseño</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>Desarrollo</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>Pruebas</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>Despliegue</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>Mantenimiento</text>
+      <group>1</group>
+    </dragbox>
+  </question>
+
+<!-- question: 3370501  -->
+  <question type="ddwtos">
+    <name>
+      <text>pruebas unitarias</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" role="presentation">Las pruebas [[1]] son pruebas automatizadas que validan el correcto funcionamiento de unidades individuales de código, como funciones o métodos. Su propósito es asegurar que cada componente funcione de forma [[2]].</p>
+<p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <shuffleanswers>1</shuffleanswers>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Su respuesta es correcta.</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Su respuesta es parcialmente correcta.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Su respuesta es incorrecta.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <dragbox>
+      <text>unitarias</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>aislada</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>e2e</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>integracion</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>progresiva</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>continua</text>
+      <group>1</group>
+    </dragbox>
+  </question>
+
+<!-- question: 3370736  -->
+  <question type="ddwtos">
+    <name>
+      <text>pruebas unitarias</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Las pruebas unitarias tienen como propósito principal asegurar que cada parte del código funcione correctamente de manera [[1]], lo que ayuda a detectar errores temprano y facilita el mantenimiento del software.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <shuffleanswers>1</shuffleanswers>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Su respuesta es correcta.</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Su respuesta es parcialmente correcta.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Su respuesta es incorrecta.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <dragbox>
+      <text>aislada</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>conjunta</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>funcional</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>integra</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>correcta</text>
+      <group>1</group>
+    </dragbox>
+  </question>
+
+<!-- question: 3370693  -->
+  <question type="ddwtos">
+    <name>
+      <text>SQA</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">El Aseguramiento de la Calidad del Software es un conjunto de actividades y procesos sistemáticos diseñados para garantizar que el software cumpla con los estándares de calidad establecidos y satisfaga las expectativas del [[1]].</span></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <shuffleanswers>1</shuffleanswers>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Su respuesta es correcta.</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Su respuesta es parcialmente correcta.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Su respuesta es incorrecta.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <dragbox>
+      <text>cliente</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>producto owner</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>scrum master</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>Dev Team</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>QA Team</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>diseño</text>
+      <group>1</group>
+    </dragbox>
+  </question>
+
+<!-- question: 3370739  -->
+  <question type="ddwtos">
+    <name>
+      <text>Unitarias vs integracion</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" role="presentation">Las pruebas [[1]] evalúan componentes individuales, mientras que las pruebas de integración verifican el funcionamiento conjunto de múltiples componentes.</p>
+<p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <shuffleanswers>1</shuffleanswers>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Su respuesta es correcta.</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Su respuesta es parcialmente correcta.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Su respuesta es incorrecta.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <dragbox>
+      <text>unitarias</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>integración</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>e2e</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>aceptacion</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>humo</text>
+      <group>1</group>
+    </dragbox>
+    <dragbox>
+      <text>regresión</text>
+      <group>1</group>
+    </dragbox>
+  </question>
+
+<!-- question: 3370487  -->
+  <question type="multichoice">
+    <name>
+      <text>¿Cuál de las siguientes instrucciones en un Dockerfile se usa para ...</text>
+    </name>
+    <questiontext format="html">
+      <text>¿Cuál de las siguientes instrucciones en un Dockerfile se usa para especificar la imagen base?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>COPY</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>RUN</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>FROM</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>CMD</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3370489  -->
+  <question type="multichoice">
+    <name>
+      <text>¿Cuál de las siguientes opciones NO es una ventaja de usar imágenes de Docker?</text>
+    </name>
+    <questiontext format="html">
+      <text>¿Cuál de las siguientes opciones NO es una ventaja de usar imágenes de Docker?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>Portabilidad entre sistemas</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Asegurar entornos consistentes</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Reducción de latencia en la red</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Simplificación del despliegue en producción</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3370491  -->
+  <question type="multichoice">
+    <name>
+      <text>¿Cuál de los siguientes comandos se usa para ejecutar un contenedor basado en...</text>
+    </name>
+    <questiontext format="html">
+      <text>¿Cuál de los siguientes comandos se usa para ejecutar un contenedor basado en una imagen?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>docker build</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>docker pull</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>docker run</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>docker commit</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3370493  -->
+  <question type="multichoice">
+    <name>
+      <text>¿Qué característica de Docker permite asegurar que la aplicación se ejecutará...</text>
+    </name>
+    <questiontext format="html">
+      <text>¿Qué característica de Docker permite asegurar que la aplicación se ejecutará en el mismo entorno en cualquier sistema?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>Virtualización</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Contenedores</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Clústeres</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Servidores físicos</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3370485  -->
+  <question type="multichoice">
+    <name>
+      <text>¿Qué comando se usa para crear una imagen de Docker a partir de un Dockerfile?</text>
+    </name>
+    <questiontext format="html">
+      <text>¿Qué comando se usa para crear una imagen de Docker a partir de un Dockerfile?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>docker run</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>docker build</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>docker create</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>docker compose</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3370490  -->
+  <question type="multichoice">
+    <name>
+      <text>¿Qué componente de Docker almacena imágenes de manera centralizada para ...</text>
+    </name>
+    <questiontext format="html">
+      <text>¿Qué componente de Docker almacena imágenes de manera centralizada para compartirlas?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>Contenedor</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Dockerfile</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Registro</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Volumen</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3370486  -->
+  <question type="multichoice">
+    <name>
+      <text>¿Qué elemento de Docker es una instancia en ejecución de una imagen?</text>
+    </name>
+    <questiontext format="html">
+      <text>¿Qué elemento de Docker es una instancia en ejecución de una imagen?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>Imagen</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Contenedor</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Dockerfile</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Registro</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3370488  -->
+  <question type="multichoice">
+    <name>
+      <text>¿Qué herramienta permite compartir imágenes de Docker con otros equipos?</text>
+    </name>
+    <questiontext format="html">
+      <text>¿Qué herramienta permite compartir imágenes de Docker con otros equipos?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>GitHub</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Docker Hub</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Kubernetes</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Jenkins</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3370492  -->
+  <question type="multichoice">
+    <name>
+      <text>¿Qué instrucción en un Dockerfile permite copiar archivos desde el host a la ...</text>
+    </name>
+    <questiontext format="html">
+      <text>¿Qué instrucción en un Dockerfile permite copiar archivos desde el host a la imagen?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>FROM</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>COPY</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>CMD</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>RUN</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3370494  -->
+  <question type="multichoice">
+    <name>
+      <text>¿Qué sucede cuando se ejecuta el comando `docker push`?</text>
+    </name>
+    <questiontext format="html">
+      <text>¿Qué sucede cuando se ejecuta el comando `docker push`?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>Se crea un contenedor a partir de una imagen</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Se sube una imagen a un registro como Docker Hub</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Se descarga una imagen desde un registro</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Se ejecuta un contenedor en segundo plano</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+</quiz>
