@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+    <!-- Pregunta 1: Evaluación de IF -->
+    <question type="truefalse">
+        <name><text>P1. Uso de IF en VB.NET</text></name>
+        <questiontext format="html">
+            <text><![CDATA[En Visual Basic .NET, una estructura IF puede evaluar múltiples condiciones a la vez utilizando operadores lógicos como AND y OR.]]></text>
+        </questiontext>
+        <answer fraction="100">
+            <text><![CDATA[true]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[false]]></text>
+        </answer>
+    </question>
+
+    <!-- Pregunta 2: Select Case con múltiples valores -->
+    <question type="truefalse">
+        <name><text>P2. Select Case con rangos</text></name>
+        <questiontext format="html">
+            <text><![CDATA[En un Select Case de Visual Basic .NET, se pueden usar rangos de valores como "Case 1 To 5" para evaluar varias opciones en una sola línea.]]></text>
+        </questiontext>
+        <answer fraction="100">
+            <text><![CDATA[true]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[false]]></text>
+        </answer>
+    </question>
+
+    <!-- Pregunta 3: IF sin Then -->
+    <question type="truefalse">
+        <name><text>P3. IF sin Then</text></name>
+        <questiontext format="html">
+            <text><![CDATA[En Visual Basic .NET, una estructura IF puede escribirse sin la palabra clave "Then".]]></text>
+        </questiontext>
+        <answer fraction="0">
+            <text><![CDATA[true]]></text>
+        </answer>
+        <answer fraction="100">
+            <text><![CDATA[false]]></text>
+        </answer>
+    </question>
+
+    <!-- Pregunta 4: Uso de Else en Select Case -->
+    <question type="truefalse">
+        <name><text>P4. Uso de Case Else</text></name>
+        <questiontext format="html">
+            <text><![CDATA[En un Select Case, la cláusula "Case Else" es obligatoria para que el código funcione correctamente.]]></text>
+        </questiontext>
+        <answer fraction="0">
+            <text><![CDATA[true]]></text>
+        </answer>
+        <answer fraction="100">
+            <text><![CDATA[false]]></text>
+        </answer>
+    </question>
+
+    <!-- Pregunta 5: Eficiencia de Select Case -->
+    <question type="truefalse">
+        <name><text>P5. Eficiencia de Select Case</text></name>
+        <questiontext format="html">
+            <text><![CDATA[Select Case es más eficiente que múltiples IF cuando se comparan valores de una sola variable.]]></text>
+        </questiontext>
+        <answer fraction="100">
+            <text><![CDATA[true]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[false]]></text>
+        </answer>
+    </question>
+
+</quiz>

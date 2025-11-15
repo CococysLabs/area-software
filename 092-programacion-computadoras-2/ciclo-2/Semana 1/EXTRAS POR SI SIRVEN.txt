@@ -1,0 +1,37 @@
+Actividades y Ponderaciones
+Agenda :
+- Presentación
+- Instalación de Visual Studio
+- Creación de un proyecto
+- Conociendo Herramientas
+Información de contacto
+- Correo electrónico
+- Asunto
+- Classroom
+Presentación:
+Historia de Visual Studio
+Instalación de Visual Studio: Presentación de 3 minutos
+Solución a equipos antiguos : 2 minutos
+Estructura de un proyecto básico: 5 minutos
+Lectura:
+Documentación de visual studio : https://visualstudio.microsoft.com/es/vs/
+Historial de Version de Visual Studio :
+https://learn.microsoft.com/es-es/visualstudio/releases/2022/release-history
+Guía para iniciar un nuevo proyecto :
+https://learn.microsoft.com/es-es/visualstudio/ide/create-new-project?view=vs-2022
+Instalar Visual STUDIO, Guia:
+https://learn.microsoft.com/es-es/visualstudio/install/install-visual-studio?view=vs-2022
+Ejercicio:
+- Instalación de visual studio o tener un manual guía
+- Mostrar estructura básica de un proyecto
+- Mostrar como cambiar el nombre a un proyecto
+- Diferentes versiones, aplicación con el estudiante
+- Nombre del estudiante en un proyecto y carnet
+Actividad:
+- Realizar su nombre y carnet en la aplicación.
+Nota: al ser un software de 8GB de peso darles tiempo prudencial de subir la actividad, ya que debe
+tener una computadora que pueda soportar las gráficas del software. sugeriría darles 4-5 días.
+Esto por que deben descargar el software e implica tener conexión a internet.
+Presentación de referencia :
+https://www.canva.com/design/DAGLuwIy5mg/-PrsKShu9eDMbfPmoZTkmw/edit?utm_content=DAGLuwIy5mg
+&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton

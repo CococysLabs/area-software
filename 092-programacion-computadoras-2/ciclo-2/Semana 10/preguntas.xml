@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+    <!-- Pregunta 1 -->
+    <question type="multichoice">
+        <name><text>P1. Creación de Script</text></name>
+        <questiontext format="html">
+            <text><![CDATA[¿Qué es un script en MySQL?]]></text>
+        </questiontext>
+        <answer fraction="100">
+            <text><![CDATA[Un conjunto de instrucciones SQL almacenadas en un archivo para ejecución.]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[Un programa en C++ para manejar gráficos.]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[Un código usado para generar páginas web.]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[Una función exclusiva de Excel.]]></text>
+        </answer>
+        <shuffleanswers>true</shuffleanswers>
+        <single>true</single>
+    </question>
+
+    <!-- Pregunta 2 -->
+    <question type="multichoice">
+        <name><text>P2. Entorno MySQL Workbench</text></name>
+        <questiontext format="html">
+            <text><![CDATA[¿Cuál es la función principal de MySQL Workbench?]]></text>
+        </questiontext>
+        <answer fraction="100">
+            <text><![CDATA[Diseñar, consultar y administrar bases de datos MySQL.]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[Crear presentaciones de PowerPoint.]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[Editar imágenes y gráficos vectoriales.]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[Traducir textos automáticamente.]]></text>
+        </answer>
+        <shuffleanswers>true</shuffleanswers>
+        <single>true</single>
+    </question>
+
+    <!-- Pregunta 3 -->
+    <question type="multichoice">
+        <name><text>P3. Ordenamiento Burbuja</text></name>
+        <questiontext format="html">
+            <text><![CDATA[¿Cuál es la característica principal del algoritmo de ordenamiento burbuja?]]></text>
+        </questiontext>
+        <answer fraction="100">
+            <text><![CDATA[Compara elementos adyacentes y los intercambia si están en orden incorrecto.]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[Divide el arreglo en subarreglos.]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[Utiliza una función hash para ordenar.]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[Ordena de atrás hacia adelante directamente.]]></text>
+        </answer>
+        <shuffleanswers>true</shuffleanswers>
+        <single>true</single>
+    </question>
+
+    <!-- Pregunta 4 -->
+    <question type="multichoice">
+        <name><text>P4. Ordenamiento Quick Sort</text></name>
+        <questiontext format="html">
+            <text><![CDATA[¿Qué hace el algoritmo Quick Sort?]]></text>
+        </questiontext>
+        <answer fraction="100">
+            <text><![CDATA[Selecciona un pivote y divide el arreglo en menores y mayores.]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[Ordena usando burbujas internas.]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[Apila todos los elementos y los invierte.]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[Clasifica los datos en pares ordenados.]]></text>
+        </answer>
+        <shuffleanswers>true</shuffleanswers>
+        <single>true</single>
+    </question>
+
+    <!-- Pregunta 5 -->
+    <question type="multichoice">
+        <name><text>P5. CRUD - Create</text></name>
+        <questiontext format="html">
+            <text><![CDATA[¿Qué operación realiza "CREATE" en SQL?]]></text>
+        </questiontext>
+        <answer fraction="100">
+            <text><![CDATA[Crea una nueva tabla o registro en la base de datos.]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[Elimina datos de una tabla.]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[Actualiza datos existentes.]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[Consulta datos sin modificarlos.]]></text>
+        </answer>
+        <shuffleanswers>true</shuffleanswers>
+        <single>true</single>
+    </question>
+
+    <!-- Pregunta 6 -->
+    <question type="multichoice">
+        <name><text>P6. CRUD - Read</text></name>
+        <questiontext format="html">
+            <text><![CDATA[¿Qué instrucción se usa para leer datos en SQL?]]></text>
+        </questiontext>
+        <answer fraction="100">
+            <text><![CDATA[SELECT]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[INSERT]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[UPDATE]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[DELETE]]></text>
+        </answer>
+        <shuffleanswers>true</shuffleanswers>
+        <single>true</single>
+    </question>
+
+    <!-- Pregunta 7 -->
+    <question type="multichoice">
+        <name><text>P7. CRUD - Update</text></name>
+        <questiontext format="html">
+            <text><![CDATA[¿Cuál es la función del comando UPDATE en SQL?]]></text>
+        </questiontext>
+        <answer fraction="100">
+            <text><![CDATA[Modificar datos existentes en una tabla.]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[Agregar un nuevo registro.]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[Eliminar registros duplicados.]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[Seleccionar todos los datos.]]></text>
+        </answer>
+        <shuffleanswers>true</shuffleanswers>
+        <single>true</single>
+    </question>
+
+    <!-- Pregunta 8 -->
+    <question type="multichoice">
+        <name><text>P8. CRUD - Delete</text></name>
+        <questiontext format="html">
+            <text><![CDATA[¿Qué hace el comando DELETE en SQL?]]></text>
+        </questiontext>
+        <answer fraction="100">
+            <text><![CDATA[Elimina uno o más registros de una tabla.]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[Crea una nueva base de datos.]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[Actualiza una columna automáticamente.]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[Ordena los registros por clave primaria.]]></text>
+        </answer>
+        <shuffleanswers>true</shuffleanswers>
+        <single>true</single>
+    </question>
+
+    <!-- Pregunta 9 -->
+    <question type="multichoice">
+        <name><text>P9. Consultas de datos</text></name>
+        <questiontext format="html">
+            <text><![CDATA[¿Qué se puede hacer con una consulta SQL?]]></text>
+        </questiontext>
+        <answer fraction="100">
+            <text><![CDATA[Obtener, filtrar y ordenar datos desde una base de datos.]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[Guardar datos como imagen.]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[Convertir datos en audio.]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[Codificar datos en lenguaje máquina.]]></text>
+        </answer>
+        <shuffleanswers>true</shuffleanswers>
+        <single>true</single>
+    </question>
+
+    <!-- Pregunta 10 -->
+    <question type="multichoice">
+        <name><text>P10. Ordenamiento</text></name>
+        <questiontext format="html">
+            <text><![CDATA[¿Qué palabra clave se utiliza en SQL para ordenar resultados?]]></text>
+        </questiontext>
+        <answer fraction="100">
+            <text><![CDATA[ORDER BY]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[SORT IT]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[ORGANIZE]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[GROUP IT]]></text>
+        </answer>
+        <shuffleanswers>true</shuffleanswers>
+        <single>true</single>
+    </question>
+
+</quiz>

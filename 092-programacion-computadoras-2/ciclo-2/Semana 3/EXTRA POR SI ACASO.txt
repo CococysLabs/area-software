@@ -1,0 +1,38 @@
+Actividades y Ponderaciones
+Agenda :
+
+- Sentencias de control
+- IF/IF-ELSE/IF-ELSEIF (IF ANIDADO)
+- Select-Case
+- Funciones Básicas
+- Repaso y Ejemplos
+
+Presentación:
+
+- Sentencias de control
+- IF/IF-ELSE/IF-ELSEIF (IF ANIDADO)
+- Select-Case
+- Buenas Prácticas en sentencias condicionales
+- Repaso y Ejemplos
+
+Lectura:
+https://drive.google.com/file/d/1qC1GVe3xtCbm3ckynwxJ8WzqdPxjLdbP/view?usp=sharing
+Video :
+If : https://www.youtube.com/watch?v=H3Gj9V--2J4
+If vs Select Case : https://youtu.be/mJ0Ln1p2h8g
+Buenas practicas : https://www.youtube.com/watch?v=hB01oKun8uc
+
+Ejercicio:
+
+- Sentencias IF
+- If anidado
+- Select Case
+- Buenas prácticas en sentencias condicionales
+- ¿Qué ocurre cuando colocas variables afuera de un if?
+
+Presentación de apoyo:
+
+https://www.canva.com/design/DAGVgK_DJ5k/0LXtotjRtQBc1zK-
+1kopyQ/edit?utm_content=DAGVgK_DJ5k&utm_campaign=designshare&utm_medium=link2&utm_sour
+
+ce=sharebutton

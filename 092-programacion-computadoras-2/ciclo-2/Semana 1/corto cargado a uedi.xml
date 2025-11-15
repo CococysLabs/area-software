@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+    <question type="multichoice">
+        <name><text>P1. ¿Qué es Visual Basic .NET?</text></name>
+        <questiontext format="html">
+            <text><![CDATA[¿Cuál es la definición más precisa de Visual Basic .NET?]]></text>
+        </questiontext>
+        <answer fraction="100">
+            <text><![CDATA[Es un lenguaje de programación orientado a objetos desarrollado por Microsoft para .NET.]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[Es un sistema operativo de Microsoft.]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[Es una base de datos relacional.]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[Es una extensión de Excel.]]></text>
+        </answer>
+        <shuffleanswers>true</shuffleanswers>
+        <single>true</single>
+    </question>
+
+    <question type="multichoice">
+        <name><text>P2. Característica de VB.NET</text></name>
+        <questiontext format="html">
+            <text><![CDATA[¿Cuál de las siguientes es una característica de Visual Basic .NET?]]></text>
+        </questiontext>
+        <answer fraction="100">
+            <text><![CDATA[Soporte completo para programación orientada a objetos.]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[Solo se ejecuta en sistemas Linux.]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[No permite trabajar con formularios gráficos.]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[No es compatible con .NET Framework.]]></text>
+        </answer>
+        <shuffleanswers>true</shuffleanswers>
+        <single>true</single>
+    </question>
+
+    <question type="multichoice">
+        <name><text>P3. Proyecto en VB.NET</text></name>
+        <questiontext format="html">
+            <text><![CDATA[¿Qué contiene típicamente un proyecto de Visual Basic .NET?]]></text>
+        </questiontext>
+        <answer fraction="100">
+            <text><![CDATA[Formularios, módulos, clases y archivos de configuración.]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[Únicamente archivos de imagen y audio.]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[Sólo una hoja de cálculo.]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[Script de JavaScript.]]></text>
+        </answer>
+        <shuffleanswers>true</shuffleanswers>
+        <single>true</single>
+    </question>
+
+    <question type="multichoice">
+        <name><text>P4. Estructura básica</text></name>
+        <questiontext format="html">
+            <text><![CDATA[¿Qué elemento define el punto de entrada de una aplicación en VB.NET?]]></text>
+        </questiontext>
+        <answer fraction="100">
+            <text><![CDATA[Sub Main]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[Public Constructor]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[Init()]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[Begin()]]></text>
+        </answer>
+        <shuffleanswers>true</shuffleanswers>
+        <single>true</single>
+    </question>
+
+    <question type="multichoice">
+        <name><text>P5. Instalación de VB.NET</text></name>
+        <questiontext format="html">
+            <text><![CDATA[¿Qué herramienta se recomienda para desarrollar en VB.NET?]]></text>
+        </questiontext>
+        <answer fraction="100">
+            <text><![CDATA[Visual Studio]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[Blender]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[Photoshop]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[AutoCAD]]></text>
+        </answer>
+        <shuffleanswers>true</shuffleanswers>
+        <single>true</single>
+    </question>
+
+    <question type="multichoice">
+        <name><text>P6. Eventos en VB.NET</text></name>
+        <questiontext format="html">
+            <text><![CDATA[¿Qué es un evento en Visual Basic .NET?]]></text>
+        </questiontext>
+        <answer fraction="100">
+            <text><![CDATA[Una acción generada por el usuario o el sistema que puede ser respondida por el programa.]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[Una base de datos externa.]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[Un tipo de archivo del sistema.]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[Un error en tiempo de ejecución.]]></text>
+        </answer>
+        <shuffleanswers>true</shuffleanswers>
+        <single>true</single>
+    </question>
+
+    <question type="multichoice">
+        <name><text>P7. Control común</text></name>
+        <questiontext format="html">
+            <text><![CDATA[¿Cuál de los siguientes es un control común en un formulario de VB.NET?]]></text>
+        </questiontext>
+        <answer fraction="100">
+            <text><![CDATA[Button]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[Circle]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[Cube]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[Wave]]></text>
+        </answer>
+        <shuffleanswers>true</shuffleanswers>
+        <single>true</single>
+    </question>
+
+    <question type="multichoice">
+        <name><text>P8. Asociación de eventos</text></name>
+        <questiontext format="html">
+            <text><![CDATA[¿Cómo se asocia un evento a un control en VB.NET?]]></text>
+        </questiontext>
+        <answer fraction="100">
+            <text><![CDATA[Mediante un manejador de eventos como Button1_Click.]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[Con un script externo de JavaScript.]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[No se pueden asociar eventos.]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[Con un archivo .bat]]></text>
+        </answer>
+        <shuffleanswers>true</shuffleanswers>
+        <single>true</single>
+    </question>
+
+    <question type="multichoice">
+        <name><text>P9. Extensión de archivo</text></name>
+        <questiontext format="html">
+            <text><![CDATA[¿Cuál es la extensión típica de un archivo de código fuente en Visual Basic .NET?]]></text>
+        </questiontext>
+        <answer fraction="100">
+            <text><![CDATA[.vb]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[.cs]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[.js]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[.py]]></text>
+        </answer>
+        <shuffleanswers>true</shuffleanswers>
+        <single>true</single>
+    </question>
+
+    <question type="multichoice">
+        <name><text>P10. Compilación</text></name>
+        <questiontext format="html">
+            <text><![CDATA[¿Qué hace el compilador de VB.NET?]]></text>
+        </questiontext>
+        <answer fraction="100">
+            <text><![CDATA[Convierte el código fuente en código intermedio ejecutable por el CLR.]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[Traduce el código a HTML.]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[Convierte el código directamente a ensamblador.]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[Genera únicamente documentación.]]></text>
+        </answer>
+        <shuffleanswers>true</shuffleanswers>
+        <single>true</single>
+    </question>
+
+</quiz>
