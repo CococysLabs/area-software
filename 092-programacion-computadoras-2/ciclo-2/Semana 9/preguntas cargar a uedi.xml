@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+    <!-- Pregunta 1 -->
+    <question type="multichoice">
+        <name><text>P1. ¿Qué es SQL?</text></name>
+        <questiontext format="html">
+            <text><![CDATA[¿Cuál es el propósito principal del lenguaje SQL?]]></text>
+        </questiontext>
+        <answer fraction="100">
+            <text><![CDATA[Manipular y consultar datos en bases de datos relacionales.]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[Crear archivos de texto planos para almacenamiento.]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[Editar imágenes almacenadas en la base de datos.]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[Enviar correos electrónicos automáticos.]]></text>
+        </answer>
+        <shuffleanswers>true</shuffleanswers>
+        <single>true</single>
+    </question>
+
+    <!-- Pregunta 2 -->
+    <question type="multichoice">
+        <name><text>P2. Ventaja de SQL sobre texto plano</text></name>
+        <questiontext format="html">
+            <text><![CDATA[¿Cuál es una ventaja clara de usar SQL frente a archivos de texto plano?]]></text>
+        </questiontext>
+        <answer fraction="100">
+            <text><![CDATA[Permite consultas complejas y eficientes sobre grandes volúmenes de datos.]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[Requiere menos recursos computacionales que un archivo de texto.]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[No necesita estructura ni diseño previo.]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[No se necesita instalar nada para utilizarlo.]]></text>
+        </answer>
+        <shuffleanswers>true</shuffleanswers>
+        <single>true</single>
+    </question>
+
+    <!-- Pregunta 3 -->
+    <question type="multichoice">
+        <name><text>P3. ¿Qué es MySQL Workbench?</text></name>
+        <questiontext format="html">
+            <text><![CDATA[¿Para qué sirve la herramienta MySQL Workbench?]]></text>
+        </questiontext>
+        <answer fraction="100">
+            <text><![CDATA[Para diseñar, administrar y consultar bases de datos MySQL.]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[Para editar archivos XML.]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[Para desarrollar videojuegos 3D.]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[Para gestionar servidores de correo electrónico.]]></text>
+        </answer>
+        <shuffleanswers>true</shuffleanswers>
+        <single>true</single>
+    </question>
+
+    <!-- Pregunta 4 -->
+    <question type="multichoice">
+        <name><text>P4. Instalación de MySQL Workbench</text></name>
+        <questiontext format="html">
+            <text><![CDATA[¿Qué componente adicional es necesario instalar junto con MySQL Workbench para conectarse a bases de datos?]]></text>
+        </questiontext>
+        <answer fraction="100">
+            <text><![CDATA[MySQL Server]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[Photoshop]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[Microsoft Word]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[Apache Server]]></text>
+        </answer>
+        <shuffleanswers>true</shuffleanswers>
+        <single>true</single>
+    </question>
+
+    <!-- Pregunta 5 -->
+    <question type="multichoice">
+        <name><text>P5. Conexión desde Visual Studio</text></name>
+        <questiontext format="html">
+            <text><![CDATA[¿Qué permite hacer la conexión de Visual Studio con MySQL?]]></text>
+        </questiontext>
+        <answer fraction="100">
+            <text><![CDATA[Consultar y manipular datos de MySQL desde una aplicación .NET.]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[Diseñar páginas HTML desde MySQL Workbench.]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[Convertir bases de datos en archivos PDF.]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[Crear imágenes animadas.]]></text>
+        </answer>
+        <shuffleanswers>true</shuffleanswers>
+        <single>true</single>
+    </question>
+
+    <!-- Pregunta 6 -->
+    <question type="multichoice">
+        <name><text>P6. Uso de vectores</text></name>
+        <questiontext format="html">
+            <text><![CDATA[¿Qué es un vector en programación?]]></text>
+        </questiontext>
+        <answer fraction="100">
+            <text><![CDATA[Una estructura de datos que almacena elementos en una sola dimensión.]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[Una consulta SQL avanzada.]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[Un comando de MySQL Workbench.]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[Un tipo especial de base de datos.]]></text>
+        </answer>
+        <shuffleanswers>true</shuffleanswers>
+        <single>true</single>
+    </question>
+
+    <!-- Pregunta 7 -->
+    <question type="multichoice">
+        <name><text>P7. Matrices vs. vectores</text></name>
+        <questiontext format="html">
+            <text><![CDATA[¿Cuál es la principal diferencia entre una matriz y un vector?]]></text>
+        </questiontext>
+        <answer fraction="100">
+            <text><![CDATA[La matriz tiene dos o más dimensiones, el vector solo una.]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[Ambos tienen siempre una sola dimensión.]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[Los vectores se usan solo en bases de datos.]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[Las matrices solo sirven para texto plano.]]></text>
+        </answer>
+        <shuffleanswers>true</shuffleanswers>
+        <single>true</single>
+    </question>
+
+    <!-- Pregunta 8 -->
+    <question type="multichoice">
+        <name><text>P8. Consulta SQL básica</text></name>
+        <questiontext format="html">
+            <text><![CDATA[¿Cuál es una consulta válida en SQL para obtener todos los registros de una tabla llamada Clientes?]]></text>
+        </questiontext>
+        <answer fraction="100">
+            <text><![CDATA[SELECT * FROM Clientes;]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[GET ALL Clientes;]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[SHOW TABLE Clientes;]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[SELECT Clientes FROM *;]]></text>
+        </answer>
+        <shuffleanswers>true</shuffleanswers>
+        <single>true</single>
+    </question>
+
+    <!-- Pregunta 9 -->
+    <question type="multichoice">
+        <name><text>P9. Lenguaje de consulta</text></name>
+        <questiontext format="html">
+            <text><![CDATA[¿SQL pertenece a qué tipo de lenguaje?]]></text>
+        </questiontext>
+        <answer fraction="100">
+            <text><![CDATA[Lenguaje declarativo.]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[Lenguaje ensamblador.]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[Lenguaje orientado a objetos.]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[Lenguaje de estilos.]]></text>
+        </answer>
+        <shuffleanswers>true</shuffleanswers>
+        <single>true</single>
+    </question>
+
+    <!-- Pregunta 10 -->
+    <question type="multichoice">
+        <name><text>P10. Relación entre VS y MySQL</text></name>
+        <questiontext format="html">
+            <text><![CDATA[¿Qué componente se usa para conectar Visual Studio con MySQL?]]></text>
+        </questiontext>
+        <answer fraction="100">
+            <text><![CDATA[Un conector o driver de MySQL para .NET.]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[Un archivo CSV compartido.]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[Un plugin de Photoshop.]]></text>
+        </answer>
+        <answer fraction="0">
+            <text><![CDATA[Una aplicación Java externa.]]></text>
+        </answer>
+        <shuffleanswers>true</shuffleanswers>
+        <single>true</single>
+    </question>
+
+</quiz>
