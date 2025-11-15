@@ -1,0 +1,24 @@
+# CODEOWNERS para area-software
+# Estos usuarios deben aprobar TODOS los cambios antes de merge
+
+# Propietario principal - Debe aprobar TODO
+* @RivaldoTJ
+
+# Área de Software - Cursos específicos
+/090-programacion-computadoras-1/ @RivaldoTJ
+/092-programacion-computadoras-2/ @RivaldoTJ
+/283-analisis-diseno-sistemas-1/ @RivaldoTJ
+/667-programacion-comercial-1/ @RivaldoTJ
+/768-algoritmos/ @RivaldoTJ
+/770-intro-programacion-computacion-1/ @RivaldoTJ
+/771-intro-programacion-computacion-2/ @RivaldoTJ
+/772-estructura-datos/ @RivaldoTJ
+/773-manejo-implementacion-archivos/ @RivaldoTJ
+/780-software-avanzado/ @RivaldoTJ
+/785-analisis-diseno-sistemas-2/ @RivaldoTJ
+
+# Archivos críticos del repositorio
+/.github/ @RivaldoTJ
+/.gitignore @RivaldoTJ
+/README.md @RivaldoTJ
+/CONTRIBUTING.md @RivaldoTJ

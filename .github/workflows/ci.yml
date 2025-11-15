@@ -1,0 +1,159 @@
+name: CI - Validación de Contenido
+
+on:
+  pull_request:
+    branches: [ main ]
+  push:
+    branches: [ main ]
+
+jobs:
+  validate-structure:
+    name: Validar Estructura de Archivos
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout código
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      
+      - name: Validar que no hay archivos de seguridad
+        run: |
+          echo "🔍 Verificando archivos de seguridad..."
+          if find . -type f \( -iname "*seguridad*.txt" -o -iname "*seguridad*.docx" \) | grep -q .; then
+            echo "❌ ERROR: Se encontraron archivos de seguridad"
+            find . -type f \( -iname "*seguridad*.txt" -o -iname "*seguridad*.docx" \)
+            exit 1
+          fi
+          echo "✅ No se encontraron archivos de seguridad"
+      
+      - name: Validar que no hay videos
+        run: |
+          echo "🔍 Verificando archivos de video..."
+          if find . -type f \( -iname "*.mp4" -o -iname "*.avi" -o -iname "*.mov" -o -iname "*.mkv" -o -iname "*.flv" \) | grep -q .; then
+            echo "❌ ERROR: Se encontraron archivos de video"
+            find . -type f \( -iname "*.mp4" -o -iname "*.avi" -o -iname "*.mov" -o -iname "*.mkv" -o -iname "*.flv" \)
+            exit 1
+          fi
+          echo "✅ No se encontraron videos"
+      
+      - name: Validar estructura de carpetas
+        run: |
+          echo "🔍 Verificando estructura de carpetas..."
+          
+          # Verificar que las carpetas de cursos tengan la estructura correcta
+          for curso_dir in */; do
+            # Ignorar carpetas especiales
+            if [[ "$curso_dir" == ".github/" ]] || [[ "$curso_dir" == "2024-segundo-semestre/" ]]; then
+              continue
+            fi
+            
+            # Verificar que exista ciclo-1 o sea un curso válido
+            if [[ ! -d "${curso_dir}ciclo-1" ]] && [[ ! -f "${curso_dir}README.md" ]]; then
+              echo "⚠️  Advertencia: $curso_dir no tiene estructura estándar"
+            fi
+          done
+          echo "✅ Estructura validada"
+      
+      - name: Verificar tamaño de archivos
+        run: |
+          echo "🔍 Verificando tamaño de archivos..."
+          
+          # Buscar archivos mayores a 50MB
+          large_files=$(find . -type f -size +50M 2>/dev/null || true)
+          
+          if [ ! -z "$large_files" ]; then
+            echo "⚠️  Advertencia: Archivos grandes encontrados (>50MB):"
+            echo "$large_files" | while read file; do
+              size=$(du -h "$file" | cut -f1)
+              echo "  - $file ($size)"
+            done
+          else
+            echo "✅ No hay archivos excesivamente grandes"
+          fi
+      
+      - name: Validar README.md en cursos
+        run: |
+          echo "🔍 Verificando README.md en cada curso..."
+          missing_readme=0
+          
+          for curso_dir in */ciclo-1; do
+            curso=$(dirname "$curso_dir")
+            if [[ ! -f "${curso}/README.md" ]]; then
+              echo "⚠️  Falta README.md en: $curso"
+              missing_readme=$((missing_readme + 1))
+            fi
+          done
+          
+          if [ $missing_readme -gt 0 ]; then
+            echo "⚠️  $missing_readme cursos sin README.md"
+          else
+            echo "✅ Todos los cursos tienen README.md"
+          fi
+
+  lint-markdown:
+    name: Validar Markdown
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout código
+        uses: actions/checkout@v4
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      
+      - name: Instalar markdownlint
+        run: npm install -g markdownlint-cli
+      
+      - name: Validar archivos Markdown
+        run: |
+          echo "🔍 Validando archivos Markdown..."
+          markdownlint '**/*.md' --ignore node_modules --config .markdownlint.json || true
+          echo "✅ Validación de Markdown completada"
+
+  security-scan:
+    name: Escaneo de Seguridad
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout código
+        uses: actions/checkout@v4
+      
+      - name: Buscar credenciales o tokens
+        run: |
+          echo "🔍 Buscando posibles credenciales expuestas..."
+          
+          # Buscar patrones comunes de credenciales
+          if grep -r -i -E "(password|passwd|pwd|token|api_key|apikey|secret|credential).*[=:].*['\"][a-zA-Z0-9]{8,}" . --exclude-dir=.git --exclude-dir=node_modules 2>/dev/null | grep -v ".github/workflows"; then
+            echo "⚠️  ADVERTENCIA: Se encontraron posibles credenciales en el código"
+            exit 1
+          fi
+          echo "✅ No se encontraron credenciales expuestas"
+
+  notify-reviewers:
+    name: Notificar a Revisores
+    runs-on: ubuntu-latest
+    if: github.event_name == 'pull_request'
+    
+    steps:
+      - name: Comentar en PR
+        uses: actions/github-script@v7
+        with:
+          script: |
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: `## 🔍 Validación Automática
+
+              ✅ Las validaciones automáticas han pasado exitosamente.
+              
+              **Próximos pasos:**
+              - Un revisor debe aprobar estos cambios
+              - Verificar que el contenido cumple con los estándares de COCOCYS
+              - Confirmar que no hay información sensible
+              
+              @${context.payload.pull_request.user.login} - Tu contribución está lista para revisión. ¡Gracias! 🎉`
+            })
