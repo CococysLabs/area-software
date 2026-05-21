@@ -1,0 +1,11 @@
+digraph G {
+Nodo0[label = "5"]
+Nodo1[label = "10"]
+Nodo2[label = "6"]
+Nodo3[label = "2"]
+Nodo4[label = "1"]
+Nodo5[label = "100"]
+Nodo6[label = "2000"]
+Nodo0->Nodo1->Nodo2->Nodo3->Nodo4->Nodo5->Nodo6->Nodo0
+rankdir = LR
+}

@@ -1,9 +1,4 @@
 # [785] Análisis y Diseño de Sistemas 2
-
-## 📚 Ciclos Disponibles
-
-- [ciclo-1](./ciclo-1/)
-
 ## 📁 Contenido
 
 Cada ciclo contiene el material del curso organizado según la estructura original del profesor/catedrático.

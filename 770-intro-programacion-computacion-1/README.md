@@ -1,9 +1,4 @@
 # [770] Introducción a la Programación y Computación 1
-
-## 📚 Ciclos Disponibles
-
-- [ciclo-1](./ciclo-1/)
-
 ## 📁 Contenido
 
 Cada ciclo contiene el material del curso organizado según la estructura original del profesor/catedrático.

@@ -1,9 +1,4 @@
 # [092] Programación de Computadoras 2
-
-## 📚 Ciclos Disponibles
-
-- [ciclo-1](./ciclo-1/)
-
 ## 📁 Contenido
 
 Cada ciclo contiene el material del curso organizado según la estructura original del profesor/catedrático.
