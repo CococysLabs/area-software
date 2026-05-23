@@ -1,0 +1,46 @@
+Quiz diagnostico curso actual
+
+1. (Sistemas de archivos – ext2/ext3)
+¿Qué componente del sistema de archivos ext2/ext3 almacena la información sobre archivos como permisos, propietarios, tamaño y punteros a bloques de datos?
+a) Superbloque
+b) Inodo
+c) Tabla de bloques libres
+d) Directorio raíz
+
+✅ Respuesta esperada: b
+
+2. (ext2 – diseño interno)
+En el sistema de archivos ext2, ¿cuál es la función principal del superbloque?
+a) Almacenar los datos del archivo
+b) Indicar los bloques ocupados
+c) Contener la configuración global del sistema de archivos
+d) Gestionar las conexiones de red
+
+✅ Respuesta esperada: c
+
+3. (ext3 – journaling)
+¿Cuál es la diferencia principal entre ext2 y ext3?
+a) ext2 es más rápido que ext3
+b) ext3 añade soporte para journaling, lo que mejora la recuperación ante fallos
+c) ext3 usa FAT como base
+d) ext2 permite archivos más grandes que ext3
+
+✅ Respuesta esperada: b
+
+4. (Almacenamiento – SAN)
+¿Cuál es la característica distintiva de una red de área de almacenamiento (SAN)?
+a) Ofrece almacenamiento basado en archivos a través de HTTP
+b) Permite compartir bloques de disco a nivel de red entre múltiples servidores
+c) Utiliza tablas de asignación similares a sistemas FAT
+d) Requiere siempre un sistema operativo Windows
+
+✅ Respuesta esperada: b
+
+5. (Bloques y asignación)
+¿Qué técnica se utiliza comúnmente en ext2/ext3 para manejar archivos que requieren más bloques de los que puede apuntar directamente un inodo?
+a) Árbol B+
+b) Punteros indirectos, dobles e indirectos triples
+c) Compresión de bloques
+d) Enlaces simbólicos recursivos
+
+✅ Respuesta esperada: b

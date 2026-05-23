@@ -1,0 +1,51 @@
+Quiz diagnostico cursos previos
+
+1. ¿Qué estructura de datos sería más adecuada para representar la jerarquía de directorios en un sistema de archivos como ext2/ext3?
+a) Lista enlazada doble
+b) Árbol binario de búsqueda
+c) Tabla hash abierta
+d) Árbol n-ario
+
+Respuesta: d
+(Comentario: los sistemas de archivos suelen representar directorios como árboles donde cada nodo puede tener múltiples hijos)
+
+2. (Relación con estructuras de datos – manejo de bloques y matrices dispersas)
+En un sistema de archivos, los bloques de datos que no están contiguos en disco pueden administrarse eficientemente utilizando estructuras como:
+a) Matriz dispersa
+b) Lista enlazada simple
+c) Árbol AVL
+d) Grafo dirigido
+
+✅ Respuesta esperada: a
+(Comentario: se pueden usar representaciones similares a matrices dispersas para manejar almacenamiento no contiguo) 
+
+3. (Relación con análisis léxico – lectura de archivos binarios)
+Para leer la información estructurada de un archivo binario del sistema de archivos, ¿qué técnica del análisis léxico es útil conceptualmente?
+a) Reconocimiento de tokens
+b) Gramáticas libres de contexto
+c) Árboles de derivación
+d) Minimización de autómatas
+
+✅ Respuesta esperada: a
+(Comentario: leer bloques de datos estructurados se parece a identificar "tokens" en una secuencia de bytes)
+
+4. (Relación con grafos – topología de almacenamiento en red)
+¿Qué estructura de datos es ideal para modelar la interconexión entre servidores y dispositivos de almacenamiento en una red SAN?
+a) Árbol AVL
+b) Tabla hash
+c) Grafo
+d) Lista enlazada
+
+✅ Respuesta esperada: c
+(Comentario: las redes SAN tienen topologías complejas que pueden modelarse como grafos)
+
+5. (Conceptual – almacenamiento)
+¿Cuál es la diferencia principal entre un sistema de archivos local como ext3 y un sistema SAN?
+a) ext3 está diseñado para ambientes distribuidos, SAN no
+b) SAN ofrece acceso a bloques de disco a través de red, ext3 es un sistema de archivos local
+c) ext3 utiliza una red de área de almacenamiento, SAN no
+d) No hay diferencia, ambos son tipos de sistemas de archivos
+
+✅ Respuesta esperada: b
+
+
