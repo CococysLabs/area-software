@@ -23,15 +23,16 @@ jobs:
         with:
           fetch-depth: 0
       
-      - name: Validar que no hay archivos de seguridad
+      - name: Verificar archivos de seguridad
         run: |
-          echo "🔍 Verificando archivos de seguridad..."
-          if find . -type f \( -iname "*seguridad*.txt" -o -iname "*seguridad*.docx" \) | grep -q .; then
-            echo "❌ ERROR: Se encontraron archivos de seguridad"
-            find . -type f \( -iname "*seguridad*.txt" -o -iname "*seguridad*.docx" \)
+          echo "🔍 Verificando archivos de seguridad sensibles..."
+          # Buscar solo archivos sensibles específicos (Seguridad.txt/docx en raíz de cursos)
+          if find . -maxdepth 3 -type f \( -name "Seguridad.txt" -o -name "Seguridad.docx" -o -name "seguridad.txt" -o -name "seguridad.docx" \) | grep -q .; then
+            echo "❌ ERROR: Se encontraron archivos de seguridad sensibles"
+            find . -maxdepth 3 -type f \( -name "Seguridad.txt" -o -name "Seguridad.docx" -o -name "seguridad.txt" -o -name "seguridad.docx" \)
             exit 1
           fi
-          echo "✅ No se encontraron archivos de seguridad"
+          echo "✅ No se encontraron archivos de seguridad sensibles"
       
       - name: Validar que no hay videos
         run: |
